@@ -1,0 +1,6 @@
+framework module Pods_LogKit_Scan_Issue_Demo {
+  umbrella header "Pods-LogKit-Scan-Issue-Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

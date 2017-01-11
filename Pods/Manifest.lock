@@ -1,0 +1,22 @@
+PODS:
+  - LogKit (2.3.2)
+
+DEPENDENCIES:
+  - LogKit (from `https://github.com/glentregoning/logkit`, branch `swift3`)
+
+EXTERNAL SOURCES:
+  LogKit:
+    :branch: swift3
+    :git: https://github.com/glentregoning/logkit
+
+CHECKOUT OPTIONS:
+  LogKit:
+    :commit: af008009f5b457e0e53ad4e6a29f7927c2d06f48
+    :git: https://github.com/glentregoning/logkit
+
+SPEC CHECKSUMS:
+  LogKit: 6e675866adf0b0d6671d712b4e839fb5b21517d2
+
+PODFILE CHECKSUM: 12471d969eac7f64531d5869101275e9e5e20f9e
+
+COCOAPODS: 1.1.1
